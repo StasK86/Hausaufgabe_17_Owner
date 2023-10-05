@@ -46,7 +46,7 @@
 2. [Раздел "Отделения и банкоматы"](https://github.com/StasK86/BCC_Tests/blob/master/src/test/java/com/krigersv/tests/BankBranchBccTest.java)
    - :heavy_check_mark:_Проверка подсказок в поисковой строке_
 3. [Раздел "Кредиты наличными"](https://github.com/StasK86/BCC_Tests/blob/master/src/test/java/com/krigersv/tests/ApplicationBccTests.java)
-   - :heavy_check_mark:_Проверка заполнения поля 'Оставьте заявку на кредит;' при выборе значения из списка_
+   - :heavy_check_mark:_Проверка заполнения поля 'Оставьте заявку на кредит' при выборе значения из списка_
    - :heavy_check_mark:_Проверка элементов наличия преимуществ_
 4. [Раздел "Онлайн ипотека на вторичное жильё"](https://github.com/StasK86/BCC_Tests/blob/master/src/test/java/com/krigersv/tests/MortgageBccTest.java)
    - :heavy_check_mark:_Проверка изменения расчёта калькулятора при нажатии на чекбокс_
