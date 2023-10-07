@@ -3,7 +3,7 @@
 ### **Проект по автоматизации тестовых сценариев для сайта www.bcc.kz**
 
 <p align="center">
-<img src="PSV/screenshots/logobcc.png" alt="Jenkins Build" width="1000" height="300">
+<img src="psv/screenshots/logobcc.png" alt="Jenkins Build" width="1000" height="300">
 </p>
 <p>Банк ЦентрКредит - один из лидеров банковской системы страны, который &nbsp;35 лет предоставляет простые и удобные продукты и сервисы самых современных технологий во всех регионах Казахстана.<br><br>Сегодня Банк имеет собственную широкую филиальную сеть по республике, обслуживает физических и юридических лиц в 19 филиалах и более 160 отделениях по Казахстану. Клиентами Банка являются более 3 млн. физических и более 140 тыс. юридических лиц.</p>
 
@@ -24,18 +24,18 @@
 ## :computer: Стек технологий
 
 <p align="left">
-<a href="https://www.jetbrains.com/idea/"><img src="PSV/pictures/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA" title="IntelliJ IDEA"/></a>
-<a href="https://www.java.com/"><img src="PSV/pictures/Java.svg" width="50" height="50" alt="Java" title="Java"/></a>
-<a href="https://github.com/"><img src="PSV/pictures/GitHub.svg" width="50" height="50" alt="Github" title="GitHub"/></a>
-<a href="https://junit.org/junit5/"><img src="PSV/pictures/JUnit5.svg" width="50" height="50" alt="JUnit 5" title="JUnit 5"/></a>
-<a href="https://gradle.org/"><img src="PSV/pictures/Gradle.svg" width="50" height="50" alt="Gradle" title="Gradle"/></a>
-<a href="https://selenide.org/"><img src="PSV/pictures/Selenide.svg" width="50" height="50" alt="Selenide" title="Selenide"/></a>
-<a href="https://aerokube.com/selenoid/"><img src="PSV/pictures/Selenoid.svg" width="50" height="50" alt="Selenoid" title="Selenoid"/></a>
-<a href="https://github.com/allure-framework/allure2"><img src="PSV/pictures/Allure_Report.svg" width="50" height="50" alt="Allure" title="Allure"/></a>
-<a href="https://qameta.io/"><img src="PSV/pictures/Allure_TO.svg" width="50" height="50" alt="Allure TestOps" title="Allure TestOps"/></a>
-<a href="https://www.jenkins.io/"><img src="PSV/pictures/Jenkins.svg" width="50" height="50" alt="Jenkins" title="Jenkins"/></a>
-<a href="https://www.atlassian.com/ru/software/jira"><img src="PSV/pictures/Jira.svg" width="50" height="50" alt="Jira" title="Jira"/></a>
-<a href="https://www.telegram.org/"><img src="PSV/pictures/Telegram.svg" width="50" height="50"/></a>
+<a href="https://www.jetbrains.com/idea/"><img src="psv/pictures/Intelij_IDEA.svg" width="50" height="50"  alt="IDEA" title="IntelliJ IDEA"/></a>
+<a href="https://www.java.com/"><img src="psv/pictures/Java.svg" width="50" height="50" alt="Java" title="Java"/></a>
+<a href="https://github.com/"><img src="psv/pictures/GitHub.svg" width="50" height="50" alt="Github" title="GitHub"/></a>
+<a href="https://junit.org/junit5/"><img src="psv/pictures/JUnit5.svg" width="50" height="50" alt="JUnit 5" title="JUnit 5"/></a>
+<a href="https://gradle.org/"><img src="psv/pictures/Gradle.svg" width="50" height="50" alt="Gradle" title="Gradle"/></a>
+<a href="https://selenide.org/"><img src="psv/pictures/Selenide.svg" width="50" height="50" alt="Selenide" title="Selenide"/></a>
+<a href="https://aerokube.com/selenoid/"><img src="psv/pictures/Selenoid.svg" width="50" height="50" alt="Selenoid" title="Selenoid"/></a>
+<a href="https://github.com/allure-framework/allure2"><img src="psv/pictures/Allure_Report.svg" width="50" height="50" alt="Allure" title="Allure"/></a>
+<a href="https://qameta.io/"><img src="psv/pictures/Allure_TO.svg" width="50" height="50" alt="Allure TestOps" title="Allure TestOps"/></a>
+<a href="https://www.jenkins.io/"><img src="psv/pictures/Jenkins.svg" width="50" height="50" alt="Jenkins" title="Jenkins"/></a>
+<a href="https://www.atlassian.com/ru/software/jira"><img src="psv/pictures/Jira.svg" width="50" height="50" alt="Jira" title="Jira"/></a>
+<a href="https://www.telegram.org/"><img src="psv/pictures/Telegram.svg" width="50" height="50"/></a>
 </p>
 
 ---
@@ -57,7 +57,7 @@
 ---
 ### <img src="PSV/pictures/Jenkins.svg" width="50" height="50"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/BCC_Tests_jenkins/)
 <p align="center">
-<img src="PSV/screenshots/JenkinsScreenshot.png" alt="Jenkins Build" width="1000" height="300">
+<img src="psv/screenshots/JenkinsScreenshot.png" alt="Jenkins Build" width="1000" height="300">
 </p>
 
 ____
@@ -75,7 +75,7 @@ ____
 ### Запуск параметризованных автотестов в **Jenkins**
 
 <p align="center">
-<img src="PSV/screenshots/JenkinsScreenshot2.png" alt="Jenkins Launch" width="1000" height="400">
+<img src="psv/screenshots/JenkinsScreenshot2.png" alt="Jenkins Launch" width="1000" height="400">
 </p>
 
 ## :rocket: Команда для запуска
@@ -95,13 +95,13 @@ ${TASK}
 ### Главная страница отчета
 
 <p align="center">
-<img src="PSV/screenshots/Screenshot2.png" alt="Allure report" width="1000" height="350">
+<img src="psv/screenshots/Screenshot2.png" alt="Allure report" width="1000" height="350">
 </p>
 
 ### Тест-кейсы
 
 <p align="center">
-<img src="PSV/screenshots/Screenshot1.png" alt="Test Case" width="1000" height="350">
+<img src="psv/screenshots/Screenshot1.png" alt="Test Case" width="1000" height="350">
 </p>
 
 ### Содержание тест-кейсов
@@ -119,7 +119,7 @@ ${TASK}
 ### Графики
 
 <p align="center">
-<img src="PSV/screenshots/Screenshot3.png" alt="Allure-graph" width="1000" height="400">
+<img src="psv/screenshots/Screenshot3.png" alt="Allure-graph" width="1000" height="400">
 </p>
 
 ---
@@ -127,17 +127,17 @@ ${TASK}
 
 ### Dashboards
 <p align="center">
-<img src="PSV/screenshots/Screenshot5.png" alt="TestOps dashboard" width="1000" height="400">
+<img src="psv/screenshots/Screenshot5.png" alt="TestOps dashboard" width="1000" height="400">
 </p>
 
 ### Ручные и автоматизированные тест-кейсы
 <p align="center">
-<img src="PSV/screenshots/Screenshot4.png" alt="TestOps dashboard" width="1000" height="400">
+<img src="psv/screenshots/Screenshot4.png" alt="TestOps dashboard" width="1000" height="400">
 </p>
 
 ### Запуск автоматизированных тестов в **TestOps**
 <p align="center">
-<img src="PSV/screenshots/Screenshot6.png" alt="TestOps launch" width="1000" height="400">
+<img src="psv/screenshots/Screenshot6.png" alt="TestOps launch" width="1000" height="400">
 </p>
 
 ---
@@ -146,7 +146,7 @@ ${TASK}
 ### Задача в Jira
 
 <p align="center">
-<img src="PSV/screenshots/Screenshot7.png" alt="TestOps launch" width="1000" height="400">
+<img src="psv/screenshots/Screenshot7.png" alt="TestOps launch" width="1000" height="400">
 </p>
 
 #### Содержание задачи
@@ -163,7 +163,7 @@ ${TASK}
 ### Уведомление из переписки с чат ботом
 
 <p align="center">
-<img src="PSV/screenshots/Screenshot8.png" alt="TestOps launch" width="500" height="400">
+<img src="psv/screenshots/Screenshot8.png" alt="TestOps launch" width="500" height="400">
 </p>
 
 
@@ -181,7 +181,7 @@ ${TASK}
 ## <img src="PSV/pictures/Selenoid.svg" height="50"/> Видео запуска тестов в Selenoid
 
 <p align="center">
-<img src="PSV/videos/video.gif" alt="TestOps launch" width="800" height="400">
+<img src="psv/videos/video.gif" alt="TestOps launch" width="800" height="400">
 </p>
 
 ---
