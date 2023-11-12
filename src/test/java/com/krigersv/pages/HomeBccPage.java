@@ -11,7 +11,9 @@ import static com.codeborne.selenide.Selenide.open;
 
 public class HomeBccPage {
 
-    private final ElementsCollection menuPanel = $$("[class='container constructor-blocks']");
+    private final ElementsCollection
+            menuPanel = $$("[class='container constructor-blocks']");
+
 
     public HomeBccPage openPage() {
         open("/");

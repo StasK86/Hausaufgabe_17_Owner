@@ -20,6 +20,8 @@ public class BankBranchBccTest extends TestBase {
     void checkHints() {
         Allure.step("Открытие раздела 'Отделения и банкоматы'", () ->
                 bankBranchBccPage.openPage());
+        Allure.step("Закрытие окна 'Введите название региона'", () ->
+                bankBranchBccPage.closingWindow());
         Allure.step("Клик на поле 'Выбор региона'", () ->
                 bankBranchBccPage.click());
         Allure.step("Выбор из списка", () ->
@@ -30,4 +32,3 @@ public class BankBranchBccTest extends TestBase {
                 bankBranchBccPage.checkTipsExist());
     }
 }
-

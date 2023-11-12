@@ -3,7 +3,7 @@ package com.krigersv.config;
 import org.aeonbits.owner.Config;
 
 @Config.Sources({
-        "classpath:${envi}.properties"
+        "classpath:${env}.properties"
 })
 
 public interface WebConfig extends Config {
@@ -16,7 +16,7 @@ public interface WebConfig extends Config {
     Browser browser();
 
     @Key("browserSize")
-    @DefaultValue("1800x1000")
+    @DefaultValue("1920x1080")
     String browserSize();
 
     @Key("browserVersion")
