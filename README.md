@@ -55,7 +55,7 @@
 
 
 ---
-### <img src="PSV/pictures/Jenkins.svg" width="50" height="50"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/BCC_Tests_jenkins/)
+### <img src="psv/pictures/Jenkins.svg" width="50" height="50"/> Сборка в [Jenkins](https://jenkins.autotests.cloud/job/BCC_Tests_jenkins/)
 <p align="center">
 <img src="psv/screenshots/JenkinsScreenshot.png" alt="Jenkins Build" width="1000" height="300">
 </p>
@@ -90,7 +90,7 @@ ${TASK}
 ```
 
 ---
-## <img src="PSV/pictures/Allure_Report.svg" width="50" height="50"/> [Allure](http://192.168.31.186:59047/index.html#) отчет
+## <img src="psv/pictures/Allure_Report.svg" width="50" height="50"/> [Allure](http://192.168.31.186:59047/index.html#) отчет
 
 ### Главная страница отчета
 
@@ -123,7 +123,7 @@ ${TASK}
 </p>
 
 ---
-## <img src="PSV/pictures/Allure_TO.svg" width="50" height="50"/> Интеграция с [Allure TestOps](https://allure.autotests.cloud/project/3696/dashboards)
+## <img src="psv/pictures/Allure_TO.svg" width="50" height="50"/> Интеграция с [Allure TestOps](https://allure.autotests.cloud/project/3696/dashboards)
 
 ### Dashboards
 <p align="center">
@@ -141,7 +141,7 @@ ${TASK}
 </p>
 
 ---
-## <img src="PSV/pictures/Jira.svg" width="50" height="50"/> Интеграция с [Jira](https://jira.autotests.cloud/browse/HOMEWORK-903)
+## <img src="psv/pictures/Jira.svg" width="50" height="50"/> Интеграция с [Jira](https://jira.autotests.cloud/browse/HOMEWORK-903)
 
 ### Задача в Jira
 
@@ -158,7 +158,7 @@ ${TASK}
 
 ---
 
-## <img src="PSV/pictures/Telegram.svg" width="50" height="50"/> Уведомления в Telegram чат с ботом
+## <img src="psv/pictures/Telegram.svg" width="50" height="50"/> Уведомления в Telegram чат с ботом
 
 ### Уведомление из переписки с чат ботом
 
@@ -178,7 +178,7 @@ ${TASK}
 
 ---
 
-## <img src="PSV/pictures/Selenoid.svg" height="50"/> Видео запуска тестов в Selenoid
+## <img src="psv/pictures/Selenoid.svg" height="50"/> Видео запуска тестов в Selenoid
 
 <p align="center">
 <img src="psv/videos/video.gif" alt="TestOps launch" width="800" height="400">
